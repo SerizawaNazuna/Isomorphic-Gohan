@@ -1,0 +1,23 @@
+{
+  "name": "isomorphic_gohan",
+  "version": "1.0.0",
+  "description": "https://github.com/SerizawaNazuna/Isomorphic-Gohan.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerizawaNazuna/Isomorphic-Gohan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerizawaNazuna/Isomorphic-Gohan/issues"
+  },
+  "homepage": "https://github.com/SerizawaNazuna/Isomorphic-Gohan#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
