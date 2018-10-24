@@ -18,6 +18,7 @@
   "homepage": "https://github.com/SerizawaNazuna/Isomorphic-Gohan#readme",
   "dependencies": {
     "request": "^2.88.0",
-    "request-promise": "^4.2.2"
+    "request-promise": "^4.2.2",
+    "@line/bot-sdk": "^6.3.0"
   }
 }
